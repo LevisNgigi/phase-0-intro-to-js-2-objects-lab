@@ -1,6 +1,6 @@
 // Write your solution in this file!
 let employee = {
-    name: 'Levis Mbotr',
+    name: 'Levis Mbote',
     streetAddress: 'Nairobi , Kenya',
   };
 
